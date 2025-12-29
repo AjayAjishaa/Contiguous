@@ -1,6 +1,6 @@
 <h1 align="center">Contiguous</h1>
 
-<p align="center"><em>December 29, 2025 • My First Allocator</em></p>
+<p align="center"><em>My first allocator • December 29, 2025</em></p>
 
 <p align="center">
 Minimal Raw Allocator in C++.<br><br>

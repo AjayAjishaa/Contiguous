@@ -2,8 +2,7 @@
 
 <p align="center"><em>It's my first allocator ever • December 29, 2025</em></p>
 
-<p align="center">
-Minimal Raw Allocator in C++.<br><br>
+<p align="center"><br>
 Probably my last project of 2025, wishing you a great end of year!<br><br>
 It's not very impressive, but we all start somewhere, right?
 </p>

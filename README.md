@@ -1,10 +1,11 @@
-# My First Allocator
+<h1 align="center">My First Allocator</h1>
 
-*December 29, 2025*
+<p align="center"><em>December 29, 2025</em></p>
 
-Minimal Raw Allocator in C++.
+<p align="center">Minimal Raw Allocator in C++.<br>
 Probably my last project of 2025—wishing you a great end of year!
-It's not very impressive, but we all start somewhere, right?
+It's not very impressive, but we all start somewhere, right?</p>
+
 
 ```console
 Max Point objects in memory: 2305843009213693951

